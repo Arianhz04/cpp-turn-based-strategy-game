@@ -1,0 +1,16 @@
+# Build output
+game
+a.out
+*.exe
+*.out
+
+# IDE/editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# OS files
+.DS_Store
+Thumbs.db
